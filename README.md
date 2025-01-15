@@ -77,6 +77,6 @@ ___
 - [plaza-evm/src/lib/Decimals.sol](plaza-evm/src/lib/Decimals.sol)
 - [plaza-evm/src/lib/ERC20Extensions.sol](plaza-evm/src/lib/ERC20Extensions.sol)
 - [plaza-evm/src/lib/Utils.sol](plaza-evm/src/lib/Utils.sol)
-- [plaza-evm/src/utils/Deployer.sol](plaza-evm/src/utils/Deployer.sol)
+- [plaza-evm/src/utils/Deployer.sol](plaza-evm/src/utils/Deployer.sol).
 
 
